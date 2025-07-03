@@ -1,0 +1,21 @@
+
+        #text {
+            font-size: 20px;
+            font-weight: bold;
+            color: #fe0000;
+            text-align: justify;
+            text-decoration: underline;
+            text-transform: capitalize;
+            line-height: 25px;
+            font-family: "centaur";
+            font-style: italic;
+
+        }
+
+        h2 {
+            text-align: center;
+        }
+h1{
+    text-align: center;
+    color: #fe0000;
+}
